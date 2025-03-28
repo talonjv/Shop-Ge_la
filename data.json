@@ -1,0 +1,1051 @@
+{
+    "Nam": [
+        {
+            "id": 1,
+            "Name": "Áo vest nam cao cấp",
+            "Description": "Áo vest nam sang trọng, chất liệu cao cấp, phù hợp cho các sự kiện quan trọng",
+            "Price": "1.199.200 đ",
+            "Stock": "50",
+            "SalesCount": "12",
+            "image": [
+                {"url": "https://product.hstatic.net/20000012210/product/vest_den.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/vest_xam.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/vest_nau.jpg"}
+            ]
+        },
+        {
+            "id": 2,
+            "Name": "Quần tây nam slimfit",
+            "Description": "Quần tây nam ôm body, chất liệu co giãn, phong cách trẻ trung",
+            "Price": "699.000 đ",
+            "Stock": "45",
+            "SalesCount": "28",
+            "image": [
+                {"url": "https://product.hstatic.net/20000012210/product/quan_tay_den.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/quan_tay_xam.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/quan_tay_nau.jpg"}
+            ]
+        },
+        {
+            "id": 3,
+            "Name": "Áo sơ mi nam Oxford",
+            "Description": "Áo sơ mi nam chất liệu Oxford cao cấp, thoáng mát và dễ ủi",
+            "Price": "449.000 đ",
+            "Stock": "60",
+            "SalesCount": "35",
+            "image": [
+                {"url": "https://product.hstatic.net/20000012210/product/so_mi_trang.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/so_mi_xanh.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/so_mi_den.jpg"}
+            ]
+        },
+        {
+            "id": 4,
+            "Name": "Áo thun nam basic",
+            "Description": "Áo thun nam cotton mềm mại, thoáng mát, phù hợp hàng ngày",
+            "Price": "199.000 đ",
+            "Stock": "100",
+            "SalesCount": "50",
+            "image": [
+                {"url": "https://product.hstatic.net/20000012210/product/ao_thun_trang.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/ao_thun_den.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/ao_thun_xanh.jpg"}
+            ]
+        },
+        {
+            "id": 5,
+            "Name": "Quần short nam thể thao",
+            "Description": "Quần short nam chất liệu nhanh khô, phù hợp tập gym và chạy bộ",
+            "Price": "299.000 đ",
+            "Stock": "70",
+            "SalesCount": "40",
+            "image": [
+                {"url": "https://product.hstatic.net/20000012210/product/short_den.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/short_xanh.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/short_do.jpg"}
+            ]
+        },
+        {
+            "id": 6,
+            "Name": "Áo khoác da nam",
+            "Description": "Áo khoác da cao cấp, kiểu dáng sang trọng, ấm áp và phong cách",
+            "Price": "1.599.000 đ",
+            "Stock": "30",
+            "SalesCount": "15",
+            "image": [
+                {"url": "https://product.hstatic.net/20000012210/product/ao_khoac_da_den.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/ao_khoac_da_nau.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/ao_khoac_da_xam.jpg"}
+            ]
+        },
+        {
+            "id": 7,
+            "Name": "Quần jean nam skinny",
+            "Description": "Quần jean nam kiểu dáng skinny, co giãn thoải mái, phong cách trẻ trung",
+            "Price": "499.000 đ",
+            "Stock": "55",
+            "SalesCount": "35",
+            "image": [
+                {"url": "https://product.hstatic.net/20000012210/product/jean_xanh.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/jean_den.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/jean_xam.jpg"}
+            ]
+        },
+        {
+            "id": 8,
+            "Name": "Áo polo nam",
+            "Description": "Áo polo nam chất liệu cotton cao cấp, thoáng mát và lịch sự",
+            "Price": "349.000 đ",
+            "Stock": "80",
+            "SalesCount": "45",
+            "image": [
+                {"url": "https://product.hstatic.net/20000012210/product/polo_trang.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/polo_xanh.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/polo_do.jpg"}
+            ]
+        },
+        {
+            "id": 9,
+            "Name": "Áo hoodie nam",
+            "Description": "Áo hoodie nam chất nỉ dày dặn, ấm áp và thoải mái",
+            "Price": "399.000 đ",
+            "Stock": "65",
+            "SalesCount": "30",
+            "image": [
+                {"url": "https://product.hstatic.net/20000012210/product/hoodie_den.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/hoodie_xam.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/hoodie_xanh.jpg"}
+            ]
+        },
+        {
+            "id": 10,
+            "Name": "Quần jogger nam",
+            "Description": "Quần jogger nam vải co giãn, phong cách thể thao năng động",
+            "Price": "329.000 đ",
+            "Stock": "75",
+            "SalesCount": "40",
+            "image": [
+                {"url": "https://product.hstatic.net/20000012210/product/jogger_den.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/jogger_xam.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/jogger_xanh.jpg"}
+            ]
+        },
+        {
+            "id": 11,
+            "Name": "Áo len nam cổ tròn",
+            "Description": "Áo len nam chất liệu mềm mại, kiểu dáng basic, phù hợp mùa đông",
+            "Price": "449.000 đ",
+            "Stock": "50",
+            "SalesCount": "25",
+            "image": [
+                {"url": "https://product.hstatic.net/20000012210/product/len_kem.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/len_xanh.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/len_den.jpg"}
+            ]
+        },
+        {
+            "id": 12,
+            "Name": "Quần chinos nam",
+            "Description": "Quần chinos nam vải co giãn, phù hợp công sở và dạo phố",
+            "Price": "479.000 đ",
+            "Stock": "60",
+            "SalesCount": "35",
+            "image": [
+                {"url": "https://product.hstatic.net/20000012210/product/chinos_be.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/chinos_xanh.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/chinos_nau.jpg"}
+            ]
+        },
+        {
+            "id": 13,
+            "Name": "Áo khoác bomber nam",
+            "Description": "Áo khoác bomber phong cách trẻ trung, chất liệu dày dặn",
+            "Price": "799.000 đ",
+            "Stock": "40",
+            "SalesCount": "20",
+            "image": [
+                {"url": "https://product.hstatic.net/20000012210/product/bomber_den.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/bomber_xanh.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/bomber_do.jpg"}
+            ]
+        },
+        {
+            "id": 14,
+            "Name": "Áo sơ mi jean nam",
+            "Description": "Áo sơ mi jean phong cách cổ điển, chất liệu bền đẹp",
+            "Price": "429.000 đ",
+            "Stock": "55",
+            "SalesCount": "30",
+            "image": [
+                {"url": "https://product.hstatic.net/20000012210/product/so_mi_jean_xanh.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/so_mi_jean_den.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/so_mi_jean_nau.jpg"}
+            ]
+        },
+        {
+            "id": 15,
+            "Name": "Quần short jean nam",
+            "Description": "Quần short jean phong cách năng động, thoải mái",
+            "Price": "349.000 đ",
+            "Stock": "70",
+            "SalesCount": "40",
+            "image": [
+                {"url": "https://product.hstatic.net/20000012210/product/short_jean_xanh.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/short_jean_den.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/short_jean_xam.jpg"}
+            ]
+        },
+        {
+            "id": 16,
+            "Name": "Áo thun polo dài tay",
+            "Description": "Áo thun polo dài tay, chất liệu cotton mịn, phù hợp mùa thu",
+            "Price": "379.000 đ",
+            "Stock": "65",
+            "SalesCount": "35",
+            "image": [
+                {"url": "https://product.hstatic.net/20000012210/product/polo_dai_tay_trang.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/polo_dai_tay_xanh.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/polo_dai_tay_den.jpg"}
+            ]
+        },
+        {
+            "id": 17,
+            "Name": "Quần dài thể thao nam",
+            "Description": "Quần dài thể thao năng động, chất liệu nhanh khô, thoáng mát",
+            "Price": "299.000 đ",
+            "Stock": "80",
+            "SalesCount": "45",
+            "image": [
+                {"url": "https://product.hstatic.net/20000012210/product/the_thao_den.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/the_thao_xanh.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/the_thao_xam.jpg"}
+            ]
+        },
+        {
+            "id": 18,
+            "Name": "Áo khoác gió nam",
+            "Description": "Áo khoác gió nhẹ, chống nước, phù hợp hoạt động ngoài trời",
+            "Price": "599.000 đ",
+            "Stock": "45",
+            "SalesCount": "25",
+            "image": [
+                {"url": "https://product.hstatic.net/20000012210/product/khoac_gio_den.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/khoac_gio_xanh.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/khoac_gio_do.jpg"}
+            ]
+        },
+        {
+            "id": 19,
+            "Name": "Áo sơ mi flannel nam",
+            "Description": "Áo sơ mi flannel chất liệu mềm, kiểu dáng năng động",
+            "Price": "389.000 đ",
+            "Stock": "55",
+            "SalesCount": "30",
+            "image": [
+                {"url": "https://product.hstatic.net/20000012210/product/flannel_do.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/flannel_xanh.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/flannel_xam.jpg"}
+            ]
+        },
+        {
+            "id": 20,
+            "Name": "Quần jean ống rộng nam",
+            "Description": "Quần jean ống rộng phong cách retro, thoải mái",
+            "Price": "529.000 đ",
+            "Stock": "50",
+            "SalesCount": "25",
+            "image": [
+                {"url": "https://product.hstatic.net/20000012210/product/jean_ong_rong_xanh.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/jean_ong_rong_den.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/jean_ong_rong_xam.jpg"}
+            ]
+        },
+        {
+            "id": 21,
+            "Name": "Áo thun cổ tròn in hình",
+            "Description": "Áo thun nam in hình độc đáo, chất liệu cotton mịn",
+            "Price": "249.000 đ",
+            "Stock": "90",
+            "SalesCount": "50",
+            "image": [
+                {"url": "https://product.hstatic.net/20000012210/product/thun_in_hinh_trang.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/thun_in_hinh_den.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/thun_in_hinh_xanh.jpg"}
+            ]
+        },
+        {
+            "id": 22,
+            "Name": "Quần short kaki nam",
+            "Description": "Quần short kaki phong cách casual, dễ phối đồ",
+            "Price": "279.000 đ",
+            "Stock": "75",
+            "SalesCount": "40",
+            "image": [
+                {"url": "https://product.hstatic.net/20000012210/product/short_kaki_be.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/short_kaki_xanh.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/short_kaki_nau.jpg"}
+            ]
+        },
+        {
+            "id": 23,
+            "Name": "Áo blazer nam",
+            "Description": "Áo blazer lịch lãm, chất liệu cao cấp, phù hợp các sự kiện quan trọng",
+            "Price": "1.299.000 đ",
+            "Stock": "35",
+            "SalesCount": "15",
+            "image": [
+                {"url": "https://product.hstatic.net/20000012210/product/blazer_den.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/blazer_xam.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/blazer_nau.jpg"}
+            ]
+        },
+        {
+            "id": 24,
+            "Name": "Áo len cardigan nam",
+            "Description": "Áo len cardigan ấm áp, phong cách trẻ trung",
+            "Price": "499.000 đ",
+            "Stock": "45",
+            "SalesCount": "25",
+            "image": [
+                {"url": "https://product.hstatic.net/20000012210/product/cardigan_kem.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/cardigan_xanh.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/cardigan_do.jpg"}
+            ]
+        },
+        {
+            "id": 25,
+            "Name": "Quần tây gam màu pastel",
+            "Description": "Quần tây nam màu pastel, phong cách thanh lịch và hiện đại",
+            "Price": "649.000 đ",
+            "Stock": "40",
+            "SalesCount": "20",
+            "image": [
+                {"url": "https://product.hstatic.net/20000012210/product/quan_tay_pastel_hong.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/quan_tay_pastel_xanh.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/quan_tay_pastel_kem.jpg"}
+            ]
+        },
+        {
+            "id": 26,
+            "Name": "Áo thun polo basic",
+            "Description": "Áo thun polo basic, chất liệu cotton cao cấp, dễ phối đồ",
+            "Price": "299.000 đ",
+            "Stock": "85",
+            "SalesCount": "45",
+            "image": [
+                {"url": "https://product.hstatic.net/20000012210/product/polo_basic_trang.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/polo_basic_xanh.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/polo_basic_den.jpg"}
+            ]
+        },
+        {
+            "id": 27,
+            "Name": "Quần short thể thao nam",
+            "Description": "Quần short thể thao năng động, chất liệu nhanh khô",
+            "Price": "249.000 đ",
+            "Stock": "90",
+            "SalesCount": "50",
+            "image": [
+                {"url": "https://product.hstatic.net/20000012210/product/short_the_thao_den.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/short_the_thao_xanh.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/short_the_thao_do.jpg"}
+            ]
+        },
+        {
+            "id": 28,
+            "Name": "Áo sơ mi trắng cao cấp",
+            "Description": "Áo sơ mi trắng nam thiết kế sang trọng, chất liệu không nhăn",
+            "Price": "479.000 đ",
+            "Stock": "60",
+            "SalesCount": "35",
+            "image": [
+                {"url": "https://product.hstatic.net/20000012210/product/so_mi_trang_cao_cap_1.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/so_mi_trang_cao_cap_2.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/so_mi_trang_cao_cap_3.jpg"}
+            ]
+        },
+        {
+            "id": 29,
+            "Name": "Áo khoác denim nam",
+            "Description": "Áo khoác denim phong cách năng động, chất liệu bền đẹp",
+            "Price": "699.000 đ",
+            "Stock": "45",
+            "SalesCount": "25",
+            "image": [
+                {"url": "https://product.hstatic.net/20000012210/product/khoac_denim_xanh.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/khoac_denim_den.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/khoac_denim_xam.jpg"}
+            ]
+        },
+        {
+            "id": 30,
+            "Name": "Quần tây nhung nam",
+            "Description": "Quần tây nhung sang trọng, chất liệu mềm mại, phù hợp mùa đông",
+            "Price": "779.000 đ",
+            "Stock": "35",
+            "SalesCount": "20",
+            "image": [
+                {"url": "https://product.hstatic.net/20000012210/product/quan_tay_nhung_nau.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/quan_tay_nhung_den.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/quan_tay_nhung_xam.jpg"}
+            ]
+        },
+        {
+            "id": 31,
+            "Name": "Áo thun in logo thể thao",
+            "Description": "Áo thun nam in logo thể thao, chất liệu thoáng mát",
+            "Price": "279.000 đ",
+            "Stock": "80",
+            "SalesCount": "45",
+            "image": [
+                {"url": "https://product.hstatic.net/20000012210/product/thun_logo_trang.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/thun_logo_den.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/thun_logo_xanh.jpg"}
+            ]
+        },
+        {
+            "id": 32,
+            "Name": "Áo len cổ lọ nam",
+            "Description": "Áo len cổ lọ ấm áp, phù hợp mùa đông",
+            "Price": "499.000 đ",
+            "Stock": "50",
+            "SalesCount": "30",
+            "image": [
+                {"url": "https://product.hstatic.net/20000012210/product/len_co_lo_den.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/len_co_lo_xam.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/len_co_lo_xanh.jpg"}
+            ]
+        },
+        {
+            "id": 33,
+            "Name": "Quần jogger da nam",
+            "Description": "Quần jogger da phong cách rock, năng động",
+            "Price": "699.000 đ",
+            "Stock": "40",
+            "SalesCount": "22",
+            "image": [
+                {"url": "https://product.hstatic.net/20000012210/product/jogger_da_den.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/jogger_da_nau.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/jogger_da_xam.jpg"}
+            ]
+        },
+        {
+            "id": 34,
+            "Name": "Áo sơ mi linen nam",
+            "Description": "Áo sơ mi vải lanh nhẹ nhàng, thoáng mát",
+            "Price": "429.000 đ",
+            "Stock": "55",
+            "SalesCount": "35",
+            "image": [
+                {"url": "https://product.hstatic.net/20000012210/product/so_mi_linen_trang.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/so_mi_linen_xanh.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/so_mi_linen_kem.jpg"}
+            ]
+        },
+        {
+            "id": 35,
+            "Name": "Quần short jean rách",
+            "Description": "Quần short jean rách phong cách, trẻ trung",
+            "Price": "379.000 đ",
+            "Stock": "65",
+            "SalesCount": "40",
+            "image": [
+                {"url": "https://product.hstatic.net/20000012210/product/short_jean_rach_xanh.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/short_jean_rach_den.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/short_jean_rach_xam.jpg"}
+            ]
+        },
+        {
+            "id": 36,
+            "Name": "Áo khoác nỉ có mũ",
+            "Description": "Áo khoác nỉ ấm áp, kiểu dáng thể thao",
+            "Price": "449.000 đ",
+            "Stock": "60",
+            "SalesCount": "35",
+            "image": [
+                {"url": "https://product.hstatic.net/20000012210/product/khoac_ni_den.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/khoac_ni_xanh.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/khoac_ni_xam.jpg"}
+            ]
+        },
+        {
+            "id": 37,
+            "Name": "Quần tây công sở cao cấp",
+            "Description": "Quần tây nam thiết kế sang trọng, phù hợp môi trường chuyên nghiệp",
+            "Price": "799.000 đ",
+            "Stock": "40",
+            "SalesCount": "20",
+            "image": [
+                {"url": "https://product.hstatic.net/20000012210/product/quan_tay_cong_so_den.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/quan_tay_cong_so_xam.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/quan_tay_cong_so_nau.jpg"}
+            ]
+        },
+        {
+            "id": 38,
+            "Name": "Áo thun oversize nam",
+            "Description": "Áo thun oversize phong cách streetwear, thoải mái",
+            "Price": "299.000 đ",
+            "Stock": "85",
+            "SalesCount": "45",
+            "image": [
+                {"url": "https://product.hstatic.net/20000012210/product/thun_oversize_trang.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/thun_oversize_den.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/thun_oversize_xanh.jpg"}
+            ]
+        },
+        {
+            "id": 39,
+            "Name": "Quần short kaki cạp chun",
+            "Description": "Quần short kaki co giãn, thoải mái và tiện lợi",
+            "Price": "329.000 đ",
+            "Stock": "70",
+            "SalesCount": "40",
+            "image": [
+                {"url": "https://product.hstatic.net/20000012210/product/short_kaki_chun_be.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/short_kaki_chun_xanh.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/short_kaki_chun_nau.jpg"}
+            ]
+        },
+        {
+            "id": 40,
+            "Name": "Áo sơ mi nhung tăm",
+            "Description": "Áo sơ mi nhung tăm chất liệu mềm mại, phong cách retro",
+            "Price": "479.000 đ",
+            "Stock": "50",
+            "SalesCount": "25",
+            "image": [
+                {"url": "https://product.hstatic.net/20000012210/product/so_mi_nhung_do.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/so_mi_nhung_xanh.jpg"},
+                {"url": "https://product.hstatic.net/20000012210/product/so_mi_nhung_nau.jpg"}
+            ]
+        }
+    ],
+    "Nu":[
+
+        
+            {
+                "id": 1,
+                "Name": "Áo sơ mi nhung tầm",
+                "Description": "Áo sơ mi nhung tầm chất liệu mềm mại, phong cách retro",
+                "Price": "479.000 đ",
+                "Stock": "50",
+                "SalesCount": "25",
+                "image": [
+                    {"url": "https://product.hstatic.net/200000122140/product/so_mi_nhung_do.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/so_mi_nhung_xanh.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/so_mi_nhung_nau.jpg"}
+                ]
+            },
+            {
+                "id": 2,
+                "Name": "Đầm vintage nhung mềm",
+                "Description": "Đầm vintage nhung mềm, kiểu dáng thanh lịch, màu sắc sang trọng",
+                "Price": "599.000 đ",
+                "Stock": "45",
+                "SalesCount": "18",
+                "image": [
+                    {"url": "https://product.hstatic.net/200000122140/product/dam_vintage_do.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/dam_vintage_xanh.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/dam_vintage_den.jpg"}
+                ]
+            },
+            {
+                "id": 3,
+                "Name": "Chân váy chữ A nhung",
+                "Description": "Chân váy chữ A nhung, phom dáng cổ điển, tôn dáng hiệu quả",
+                "Price": "389.000 đ",
+                "Stock": "60",
+                "SalesCount": "35",
+                "image": [
+                    {"url": "https://product.hstatic.net/200000122140/product/chan_vay_a_do.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/chan_vay_a_xanh.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/chan_vay_a_nau.jpg"}
+                ]
+            },
+            {
+                "id": 4,
+                "Name": "Áo khoác nhung dáng ngắn",
+                "Description": "Áo khoác nhung dáng ngắn, phong cách retro năng động",
+                "Price": "699.000 đ",
+                "Stock": "40",
+                "SalesCount": "22",
+                "image": [
+                    {"url": "https://product.hstatic.net/200000122140/product/ao_khoac_ngan_do.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/ao_khoac_ngan_xanh.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/ao_khoac_ngan_den.jpg"}
+                ]
+            },
+            {
+                "id": 5,
+                "Name": "Quần ống rộng nhung",
+                "Description": "Quần ống rộng nhung, thiết kế thoải mái, phong cách thời thượng",
+                "Price": "459.000 đ",
+                "Stock": "55",
+                "SalesCount": "30",
+                "image": [
+                    {"url": "https://product.hstatic.net/200000122140/product/quan_ong_rong_do.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/quan_ong_rong_xanh.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/quan_ong_rong_nau.jpg"}
+                ]
+            },
+            {
+                "id": 6,
+                "Name": "Áo len nhung mỏng",
+                "Description": "Áo len nhung mỏng, kiểu dáng basic, phù hợp mọi dáng người",
+                "Price": "349.000 đ",
+                "Stock": "70",
+                "SalesCount": "40",
+                "image": [
+                    {"url": "https://product.hstatic.net/200000122140/product/ao_len_do.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/ao_len_xanh.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/ao_len_trang.jpg"}
+                ]
+            },
+            {
+                "id": 7,
+                "Name": "Blazer nhung sang trọng",
+                "Description": "Blazer nhung cao cấp, phom dáng Hàn Quốc, lịch sự và cuốn hút",
+                "Price": "789.000 đ",
+                "Stock": "35",
+                "SalesCount": "15",
+                "image": [
+                    {"url": "https://product.hstatic.net/200000122140/product/blazer_den.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/blazer_nau.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/blazer_xanh.jpg"}
+                ]
+            },
+            {
+                "id": 8,
+                "Name": "Áo croptop nhung",
+                "Description": "Áo croptop nhung trẻ trung, phong cách năng động và cá tính",
+                "Price": "279.000 đ",
+                "Stock": "65",
+                "SalesCount": "45",
+                "image": [
+                    {"url": "https://product.hstatic.net/200000122140/product/crop_do.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/crop_den.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/crop_xanh.jpg"}
+                ]
+            },
+            {
+                "id": 9,
+                "Name": "Quần short nhung",
+                "Description": "Quần short nhung trẻ trung, phối đồ dễ dàng, thoải mái",
+                "Price": "329.000 đ",
+                "Stock": "55",
+                "SalesCount": "35",
+                "image": [
+                    {"url": "https://product.hstatic.net/200000122140/product/short_do.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/short_xanh.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/short_nau.jpg"}
+                ]
+            },
+            {
+                "id": 10,
+                "Name": "Đầm maxi nhung",
+                "Description": "Đầm maxi nhung bay bổng, phù hợp các buổi tiệc sang trọng",
+                "Price": "899.000 đ",
+                "Stock": "30",
+                "SalesCount": "12",
+                "image": [
+                    {"url": "https://product.hstatic.net/200000122140/product/dam_maxi_do.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/dam_maxi_den.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/dam_maxi_xanh.jpg"}
+                ]
+            },
+            {
+                "id": 11,
+                "Name": "Áo sơ mi nhung tay phồng",
+                "Description": "Áo sơ mi nhung thiết kế tay phồng, nữ tính và điệu đà",
+                "Price": "429.000 đ",
+                "Stock": "50",
+                "SalesCount": "28",
+                "image": [
+                    {"url": "https://product.hstatic.net/200000122140/product/so_mi_tay_phong_do.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/so_mi_tay_phong_xanh.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/so_mi_tay_phong_trang.jpg"}
+                ]
+            },
+            {
+                "id": 12,
+                "Name": "Quần baggy nhung",
+                "Description": "Quần baggy nhung thoải mái, phong cách streetwear năng động",
+                "Price": "489.000 đ",
+                "Stock": "45",
+                "SalesCount": "25",
+                "image": [
+                    {"url": "https://product.hstatic.net/200000122140/product/baggy_do.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/baggy_den.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/baggy_xanh.jpg"}
+                ]
+            },
+            {
+                "id": 13,
+                "Name": "Áo khoác dài nhung",
+                "Description": "Áo khoác dài nhung ấm áp, phong cách Hàn Quốc",
+                "Price": "749.000 đ",
+                "Stock": "35",
+                "SalesCount": "18",
+                "image": [
+                    {"url": "https://product.hstatic.net/200000122140/product/ao_khoac_dai_den.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/ao_khoac_dai_nau.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/ao_khoac_dai_xanh.jpg"}
+                ]
+            },
+            {
+                "id": 14,
+                "Name": "Chân váy midi nhung",
+                "Description": "Chân váy midi nhung thanh lịch, phù hợp công sở và dạo phố",
+                "Price": "399.000 đ",
+                "Stock": "60",
+                "SalesCount": "40",
+                "image": [
+                    {"url": "https://product.hstatic.net/200000122140/product/vay_midi_do.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/vay_midi_den.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/vay_midi_xanh.jpg"}
+                ]
+            },
+            {
+                "id": 15,
+                "Name": "Đầm nhung xòe ngắn",
+                "Description": "Đầm nhung xòe ngắn trẻ trung, phong cách vintage hiện đại",
+                "Price": "529.000 đ",
+                "Stock": "50",
+                "SalesCount": "30",
+                "image": [
+                    {"url": "https://product.hstatic.net/200000122140/product/dam_xoe_do.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/dam_xoe_den.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/dam_xoe_xanh.jpg"}
+                ]
+            },
+            {
+                "id": 16,
+                "Name": "Áo sơ mi nhung cổ điển",
+                "Description": "Áo sơ mi nhung kiểu cổ điển, phom dáng thanh lịch",
+                "Price": "379.000 đ",
+                "Stock": "55",
+                "SalesCount": "35",
+                "image": [
+                    {"url": "https://product.hstatic.net/200000122140/product/so_mi_co_dien_nau.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/so_mi_co_dien_do.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/so_mi_co_dien_xanh.jpg"}
+                ]
+            },
+            {
+                "id": 17,
+                "Name": "Quần ống côn nhung",
+                "Description": "Quần ống côn nhung thanh mảnh, tôn dáng hiệu quả",
+                "Price": "429.000 đ",
+                "Stock": "45",
+                "SalesCount": "25",
+                "image": [
+                    {"url": "https://product.hstatic.net/200000122140/product/quan_con_do.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/quan_con_den.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/quan_con_xanh.jpg"}
+                ]
+            },
+            {
+                "id": 18,
+                "Name": "Áo blazer nhung ngắn",
+                "Description": "Áo blazer nhung ngắn trẻ trung, phối đồ linh hoạt",
+                "Price": "659.000 đ",
+                "Stock": "40",
+                "SalesCount": "20",
+                "image": [
+                    {"url": "https://product.hstatic.net/200000122140/product/blazer_ngan_den.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/blazer_ngan_do.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/blazer_ngan_xanh.jpg"}
+                ]
+            },
+            {
+                "id": 19,
+                "Name": "Đầm nhung cổ V",
+                "Description": "Đầm nhung cổ V gợi cảm, phù hợp các buổi tiệc",
+                "Price": "589.000 đ",
+                "Stock": "35",
+                "SalesCount": "15",
+                "image": [
+                    {"url": "https://product.hstatic.net/200000122140/product/dam_co_v_do.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/dam_co_v_den.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/dam_co_v_xanh.jpg"}
+                ]
+            },
+            {
+                "id": 20,
+                "Name": "Áo croptop nhung tay dài",
+                "Description": "Áo croptop nhung tay dài, phong cách Hàn Quốc năng động",
+                "Price": "349.000 đ",
+                "Stock": "60",
+                "SalesCount": "40",
+                "image": [
+                    {"url": "https://product.hstatic.net/200000122140/product/crop_tay_dai_do.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/crop_tay_dai_den.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/crop_tay_dai_xanh.jpg"}
+                ]
+            },
+            {
+                "id": 21,
+                "Name": "Chân váy nhung xếp ly",
+                "Description": "Chân váy nhung xếp ly điệu đà, phù hợp phong cách nữ tính",
+                "Price": "419.000 đ",
+                "Stock": "50",
+                "SalesCount": "30",
+                "image": [
+                    {"url": "https://product.hstatic.net/200000122140/product/vay_xep_ly_do.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/vay_xep_ly_den.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/vay_xep_ly_xanh.jpg"}
+                ]
+            },
+            {
+                "id": 22,
+                "Name": "Quần short nhung ống rộng",
+                "Description": "Quần short nhung ống rộng thoải mái, phong cách streetwear",
+                "Price": "379.000 đ",
+                "Stock": "55",
+                "SalesCount": "35",
+                "image": [
+                    {"url": "https://product.hstatic.net/200000122140/product/short_ong_rong_do.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/short_ong_rong_den.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/short_ong_rong_xanh.jpg"}
+                ]
+            },
+            {
+                "id": 23,
+                "Name": "Áo sơ mi nhung bo eo",
+                "Description": "Áo sơ mi nhung bo eo, tôn dáng và nữ tính",
+                "Price": "459.000 đ",
+                "Stock": "45",
+                "SalesCount": "25",
+                "image": [
+                    {"url": "https://product.hstatic.net/200000122140/product/so_mi_bo_eo_do.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/so_mi_bo_eo_den.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/so_mi_bo_eo_xanh.jpg"}
+                ]
+            },
+            {
+                "id": 24,
+                "Name": "Đầm nhung dài tay",
+                "Description": "Đầm nhung dài tay ấm áp, phong cách vintage sang trọng",
+                "Price": "679.000 đ",
+                "Stock": "40",
+                "SalesCount": "18",
+                "image": [
+                    {"url": "https://product.hstatic.net/200000122140/product/dam_dai_tay_do.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/dam_dai_tay_den.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/dam_dai_tay_xanh.jpg"}
+                ]
+            },
+            {
+                "id": 25,
+                "Name": "Áo khoác nhung oversize",
+                "Description": "Áo khoác nhung oversize thoải mái, phong cách Hàn Quốc",
+                "Price": "789.000 đ",
+                "Stock": "35",
+                "SalesCount": "20",
+                "image": [
+                    {"url": "https://product.hstatic.net/200000122140/product/ao_khoac_oversize_den.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/ao_khoac_oversize_nau.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/ao_khoac_oversize_xanh.jpg"}
+                ]
+            },
+            {
+                "id": 26,
+                "Name": "Quần ống suông nhung",
+                "Description": "Quần ống suông nhung thoải mái, phù hợp mọi dáng người",
+                "Price": "499.000 đ",
+                "Stock": "50",
+                "SalesCount": "30",
+                "image": [
+                    {"url": "https://product.hstatic.net/200000122140/product/quan_suong_do.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/quan_suong_den.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/quan_suong_xanh.jpg"}
+                ]
+            },
+            {
+                "id": 27,
+                "Name": "Áo len nhung cổ lọ",
+                "Description": "Áo len nhung cổ lọ ấm áp, phong cách basic thanh lịch",
+                "Price": "399.000 đ",
+                "Stock": "60",
+                "SalesCount": "40",
+                "image": [
+                    {"url": "https://product.hstatic.net/200000122140/product/ao_len_co_lo_do.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/ao_len_co_lo_den.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/ao_len_co_lo_xanh.jpg"}
+                ]
+            },
+            {
+                "id": 28,
+                "Name": "Đầm nhung xoắn eo",
+                "Description": "Đầm nhung xoắn eo gợi cảm, phù hợp các buổi tiệc",
+                "Price": "619.000 đ",
+                "Stock": "40",
+                "SalesCount": "22",
+                "image": [
+                    {"url": "https://product.hstatic.net/200000122140/product/dam_xoan_eo_do.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/dam_xoan_eo_den.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/dam_xoan_eo_xanh.jpg"}
+                ]
+            },
+            {
+                "id": 29,
+                "Name": "Áo sơ mi nhung cổ điểm",
+                "Description": "Áo sơ mi nhung cổ điểm nhấn, thiết kế sáng tạo",
+                "Price": "449.000 đ",
+                "Stock": "45",
+                "SalesCount": "25",
+                "image": [
+                    {"url": "https://product.hstatic.net/200000122140/product/so_mi_co_diem_do.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/so_mi_co_diem_den.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/so_mi_co_diem_xanh.jpg"}
+                ]
+            },
+            {
+                "id": 30,
+                "Name": "Chân váy nhung bút chì",
+                "Description": "Chân váy nhung bút chì thanh mảnh, tôn dáng hiệu quả",
+                "Price": "389.000 đ",
+                "Stock": "55",
+                "SalesCount": "35",
+                "image": [
+                    {"url": "https://product.hstatic.net/200000122140/product/vay_but_chi_do.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/vay_but_chi_den.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/vay_but_chi_xanh.jpg"}
+                ]
+            },
+            {
+                "id": 31,
+                "Name": "Quần ống loe nhung",
+                "Description": "Quần ống loe nhung trẻ trung, phong cách retro",
+                "Price": "469.000 đ",
+                "Stock": "45",
+                "SalesCount": "28",
+                "image": [
+                    {"url": "https://product.hstatic.net/200000122140/product/quan_loe_do.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/quan_loe_den.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/quan_loe_xanh.jpg"}
+                ]
+            },
+            {
+                "id": 32,
+                "Name": "Áo croptop nhung cúp ngực",
+                "Description": "Áo croptop nhung cúp ngực gợi cảm, phong cách năng động",
+                "Price": "329.000 đ",
+                "Stock": "50",
+                "SalesCount": "35",
+                "image": [
+                    {"url": "https://product.hstatic.net/200000122140/product/crop_cup_do.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/crop_cup_den.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/crop_cup_xanh.jpg"}
+                ]
+            },
+            {
+                "id": 33,
+                "Name": "Đầm nhung hai dây",
+                "Description": "Đầm nhung hai dây gợi cảm, phù hợp mùa hè",
+                "Price": "539.000 đ",
+                "Stock": "40",
+                "SalesCount": "22",
+                "image": [
+                    {"url": "https://product.hstatic.net/200000122140/product/dam_hai_day_do.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/dam_hai_day_den.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/dam_hai_day_xanh.jpg"}
+                ]
+            },
+            {
+                "id": 34,
+                "Name": "Áo blazer nhung dáng dài",
+                "Description": "Áo blazer nhung dáng dài lịch sự, phong cách công sở",
+                "Price": "719.000 đ",
+                "Stock": "35",
+                "SalesCount": "18",
+                "image": [
+                    {"url": "https://product.hstatic.net/200000122140/product/blazer_dai_den.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/blazer_dai_nau.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/blazer_dai_xanh.jpg"}
+                ]
+            },
+            {
+                "id": 35,
+                "Name": "Quần short nhung cạp cao",
+                "Description": "Quần short nhung cạp cao trẻ trung, tôn dáng",
+                "Price": "359.000 đ",
+                "Stock": "55",
+                "SalesCount": "35",
+                "image": [
+                    {"url": "https://product.hstatic.net/200000122140/product/short_cap_cao_do.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/short_cap_cao_den.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/short_cap_cao_xanh.jpg"}
+                ]
+            },
+            {
+                "id": 36,
+                "Name": "Áo sơ mi nhung phối ren",
+                "Description": "Áo sơ mi nhung phối ren nữ tính, điệu đà",
+                "Price": "489.000 đ",
+                "Stock": "45",
+                "SalesCount": "25",
+                "image": [
+                    {"url": "https://product.hstatic.net/200000122140/product/so_mi_ren_do.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/so_mi_ren_den.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/so_mi_ren_xanh.jpg"}
+                ]
+            },
+            {
+                "id": 37,
+                "Name": "Đầm nhung xòe ngắn tay",
+                "Description": "Đầm nhung xòe ngắn tay trẻ trung, phong cách vintage",
+                "Price": "559.000 đ",
+                "Stock": "50",
+                "SalesCount": "30",
+                "image": [
+                    {"url": "https://product.hstatic.net/200000122140/product/dam_xoe_ngan_tay_do.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/dam_xoe_ngan_tay_den.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/dam_xoe_ngan_tay_xanh.jpg"}
+                ]
+            },
+            {
+                "id": 38,
+                "Name": "Áo len nhung dáng dài",
+                "Description": "Áo len nhung dáng dài ấm áp, phong cách Hàn Quốc",
+                "Price": "519.000 đ",
+                "Stock": "40",
+                "SalesCount": "22",
+                "image": [
+                    {"url": "https://product.hstatic.net/200000122140/product/ao_len_dai_do.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/ao_len_dai_den.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/ao_len_dai_xanh.jpg"}
+                ]
+            },
+            {
+                "id": 39,
+                "Name": "Chân váy nhung midi wrap",
+                "Description": "Chân váy nhung midi kiểu wrap, thiết kế hiện đại",
+                "Price": "429.000 đ",
+                "Stock": "45",
+                "SalesCount": "28",
+                "image": [
+                    {"url": "https://product.hstatic.net/200000122140/product/vay_wrap_do.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/vay_wrap_den.jpg"},
+                    {"url": "https://product.hstatic.net/200000122140/product/vay_wrap_xanh.jpg"}
+                ]
+            },
+            {
+                "id": 40,
+                "Name": "Áo sơ mi nhung cổ trụ",
+                "Description": "Áo sơ mi nhung cổ trụ thanh lịch, phong cách công sở",
+                "Price": "469.000 đ",
+                "Stock": "50",
+                "SalesCount": "25",
+                "image": [
+                    {"url":"https://product.hstatic.net/20000012210/product/ao_khoac_da_den.jpg"},
+                    {"url":"https://product.hstatic.net/20000012210/product/ao_khoac_da_nau.jpg"},
+                    {"url":"https://product.hstatic.net/20000012210/product/ao_khoac_da_xanh.jpg"}
+                ]
+                }
+                ]
+                }
+                
+
+

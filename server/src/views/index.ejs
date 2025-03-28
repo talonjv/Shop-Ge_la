@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Node</title>
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+</head>
+</head>
+<body>
+
+<div class="topnav">
+  <a class="active" href="/">Home</a>
+  <a href="/login">News</a>
+  <a href="/upload">Upload File</a>
+  <a href="#about">About</a>
+</div>
+
+<div style="padding-left:16px">
+  <h2>List Users</h2>
+ <div class="w3-container">
+  <h2>Hoverable Table</h2>
+
+  <table class="w3-table-all w3-hoverable">
+    <thead>
+      <tr class="w3-light-grey">
+        <th>Id</th>
+        <th>Full Name</th>
+        <th>Email</th>
+        <th>Phone Number  </th>
+        <th>Gender</th>
+        <th>Address</th>
+        <th>District</th>
+        <th>City</th>
+        <th>Image</th>
+        <th>Action</th>
+      </tr>
+    </thead>
+    <!-- <tbody>
+        <% for(let i=0 ; i < data.length; i++) {%>
+        <tr>
+          <td><%= data[i].CustomerID %></td>
+          <td><%= data[i].FullName %></td>
+          <td><%= data[i].Email %></td>
+          <td><%= data[i].PasswordHash %></td>
+          <td><%= data[i].Gender %></td>
+          <td><%= data[i].Address %></td>
+          <td><%= data[i].District %></td>
+          <td><%= data[i].City %></td>
+          <td><img src="/image/<%= data[i].ProfilePicture %>" width="100" alt="User Image"></td>
+          <td>
+            <button class="button"><a href="/details/users/<%= data[i].id %>">Details</a></button>
+            <form action="/edit-user/<%= data[i].id %>" method="GET">
+              <input type="text" name="userId" value="<%= data[i].id %>" hidden>
+            <button class="button" type="submit">Edit</button>
+            </form>
+            <form action="/delete-user" method="POST">
+              <input type="text" name="userId" value="<%= data[i].id %>" hidden>
+            <button class="button" type="submit">Delete</button>
+            </form>
+          </td>
+        </tr>
+        <%}%>
+    </tbody> -->
+<tbody>
+    <% for(let i=0 ; i < data.length; i++) { %>
+    <tr>
+      <td><%= data[i].CustomerID %></td>
+      <td><%= data[i].FullName %></td>
+      <td><%= data[i].Email %></td>
+      <td><%= data[i].PasswordHash %></td>
+      <td><%= data[i].Gender %></td>
+      <td><%= data[i].Address %></td>
+      <td><%= data[i].District %></td>
+      <td><%= data[i].City %></td>
+      
+      <!-- Hiển thị nhiều ảnh -->
+      <td>
+        <% 
+          let images = data[i].ProfilePicture;
+          try {
+            images = JSON.parse(images); // Nếu là JSON hợp lệ, parse nó thành mảng
+            if (!Array.isArray(images)) images = [images]; // Nếu không phải mảng, chuyển thành mảng
+          } catch (e) {
+            images = images ? [images] : []; // Nếu lỗi JSON.parse, coi như chỉ có một ảnh
+          }
+        %>
+        
+        <% images.forEach(image => { %>
+          <img src="/image/<%= image %>" width="100" alt="User Image">
+        <% }); %>
+      </td>
+
+      <td>
+        <button class="button">
+          <a href="/details/users/<%= data[i].CustomerID %>">Details</a>
+        </button>
+        
+        <form action="/edit-user/<%= data[i].CustomerID %>" method="GET">
+          <input type="text" name="userId" value="<%= data[i].CustomerID %>" hidden>
+          <button class="button" type="submit">Edit</button>
+        </form>
+
+        <form action="/delete-user" method="POST">
+          <input type="text" name="userId" value="<%= data[i].CustomerID %>" hidden>
+          <button class="button" type="submit">Delete</button>
+        </form>
+      </td>
+    </tr>
+    <% } %>
+</tbody>
+
+
+  </table>
+  <div class="create-user" >
+    <form action="/createUser" method="POST" enctype="multipart/form-data">
+    <div>Create User</div>
+    <div >
+      <label for="">Full Name</label>
+      <input type="text" name="name" id="">
+      <label for="">Email</label>
+      <input type="text" name="email" id="">
+      <label for="">Phone Number</label>
+      <input type="text" name="phone" id="">
+      <label for="">Password</label>
+      <input type="text" name="password" id="">
+     <label for="gender">Chọn giới tính:</label>
+      <select id="gender" name="gender">
+          <option value="Male">Nam</option>
+          <option value="Female">Nữ</option>
+          <option value="Other">Khác</option>
+      </select>
+      <label for="">Address</label>
+      <input type="text" name="address" id="">
+      <label for="">City</label>
+      <input type="text" name="city" id="">
+      <label for="">Image</label>
+      <input type="file" name="profile_pics"  accept="image/" id="" multiple >
+    </div>
+    <button type="submit" class="btn-sub">Thêm</button>
+  </form>
+  </div>
+</div>
+</body>
+</html>

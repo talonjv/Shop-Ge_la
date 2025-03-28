@@ -1,0 +1,81 @@
+{"Male" : [
+    {
+        "id" :1 , "name":"Áo vest nam ",
+        "price":"1000",
+        "image":[
+        {"url":"./assets/tes2.webp"}],
+        "description":".... "
+    },
+    {
+        "id" :2 , "name":"Áo khoác nam ",
+        "price":"1000",
+        "image":[
+        {"url":"./assets/tes2.webp"}],
+        "description":"...... "
+    },
+    {
+        "id" :3 , "name":"Áo phao nam ",
+        "price":"1000",
+        "image":[
+        {"url":"./assets/tes2.webp"}],
+        "description":"......... "
+    },
+    {
+        "id" :4 , "name":"Áo gió nam ",
+        "price":"1000",
+        "image":[
+        {"url":"./assets/tes2.webp"}],
+        "description":"......... "
+    },
+    {
+        "id" :5 , "name":"Áo hoodie nam",
+        "price":"1000",
+        "image":[
+        {"url":"./assets/tes2.webp"}],
+        "description":"......... "
+    },
+    {
+        "id" :6 , "name":"Áo len nam",
+        "price":"1000",
+        "image":[
+        {"url":"./assets/tes2.webp"}],
+        "description":"......... "
+    },
+    {
+        "id" :7 , "name":"Áo thun nam ",
+        "price":"1000",
+        "image":[
+        {"url":"./assets/tes2.webp"}],
+        "description":"......... "
+    },
+    {
+        "id" :8 , "name":"Áo sơ mi nam ",
+        "price":"1000",
+        "image":[
+        {"url":"./assets/tes2.webp"}],
+        "description":"......... "
+    },
+    {
+        "id" :9 , "name":"Áo polo nam ",
+        "price":"1000",
+        "image":[
+        {"url":"./assets/tes2.webp"}],
+        "description":"......... "
+    }
+],
+"featured": [
+    { "id": 1, "name": "Jersey Graphic Tee" },
+    { "id": 2, "name": "Long Fit T-shirt" }
+  ],
+  "trending": [
+    { "id": 3, "name": "Long strappy dress" },
+    { "id": 4, "name": "Round neck sweater" }
+  ],
+  "bestSelling": [
+    { "id": 5, "name": "Best Selling Product 1" },
+    { "id": 6, "name": "Best Selling Product 2" }
+  ]
+
+}
+    
+

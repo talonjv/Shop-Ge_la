@@ -1,0 +1,37 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>update user</title>
+</head>
+<body>
+    <form action="/update-user" method="post">
+        <input type="text" name="id" value="<%= dataUser.id %>" hidden>
+        <div>
+        <label for="">First name</label>
+        <input type="text" name="fname" id="" value="<%= dataUser.firstname %>">
+        </div>
+        <div>
+        <label for="">Last name</label>
+        <input type="text" name="lname" id="" value="<%= dataUser.lastname %>">
+        </div>
+         <div>
+        <label for="">Password</label>
+        <input type="text" name="pass" id="" value="<%= dataUser.password %>">
+        </div>
+        <div>
+        <label for="">Email</label>
+        <input type="text" name="email" id="" value="<%= dataUser.email %>">
+        </div>
+        <div>
+        <label for="">Address</label>
+        <input type="text" name="address" id="" value="<%= dataUser.address %>">
+        </div>
+        
+        <div>
+            <button type="submit">UPdate</button>
+        </div>
+    </form>
+   
+</body>
+</html>
